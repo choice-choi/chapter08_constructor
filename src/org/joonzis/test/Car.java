@@ -13,7 +13,7 @@ Calendar calendar = Calendar.getInstance();
 calendar.get(Calendar.YEAR);
  */
 public class Car {
-
+	//필드 선언
 	String model;
 	String color;
 	int year;
@@ -37,9 +37,9 @@ public class Car {
 	
 	//void는 리턴타입 안되니까 return 타입은 그에 맞는 데이터 타입 설정하기
 	//메소드 - Constructor
-	void Constructor() {
-		System.out.println();
-	}
+//	void Constructor() {
+//		System.out.println();
+//	}
 	
 	//메소드 - output
 	void output() {

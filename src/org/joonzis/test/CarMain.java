@@ -13,8 +13,8 @@ public class CarMain {
 
 	public static void main(String[] args) {
 		
-		Car MyCar = new Car();
-		MyCar.Constructor();
+//		Car MyCar = new Car();
+//		MyCar.Constructor();
 		
 		Car MyCar2 = new Car();
 		MyCar2.output();
